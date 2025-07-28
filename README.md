@@ -294,4 +294,10 @@ RecycleGuide Pro contributes to environmental sustainability by:
 
 **Made with 💚 for a sustainable future**
 
+**Contributors**
+[![Musyoka-exe](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/musyoka-exe)
+[![muangemutunga](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/muangemutunga)
+
+
+
 *RecycleGuide Pro - Making recycling simple, educational, and accessible for everyone.*
